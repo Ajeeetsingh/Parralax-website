@@ -1,6 +1,6 @@
 # Parallax Solar System Website 🌌
 
-This project is a creative and interactive parallax scrolling website that takes users on a journey through our solar system. With smooth animations and layered visuals, it provides an immersive way to explore celestial bodies while demonstrating advanced web development techniques.
+This project is a creative and interactive parallax scrolling website that takes users through our solar system. Smooth animations and layered visuals provide an immersive way to explore celestial bodies while demonstrating advanced web development techniques.
 
 ## Features
 - **Parallax Scrolling Effect**: Creates depth and movement as users scroll through the page.
