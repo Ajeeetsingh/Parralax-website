@@ -25,7 +25,7 @@ This project is a creative and interactive parallax scrolling website that takes
 ![Mercury](./Preview/Mercury.png)
 
 ### **Saturn Details**
-![Saturn](./assets/images/Saturn.png)
+![Saturn](./Preview/Saturn.png)
 
 ## How to Run
 1. Clone this repository to your local machine:
